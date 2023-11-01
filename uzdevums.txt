@@ -1,1 +1,13 @@
-valerija
+Meditācijas taimeris
+1. Kādai funkcionalitātei jābūt lietotne?
+Manuprāt, lietotne instalē taimeri, pēc kura jūs beigsit savu meditāciju. Tāpat iesācējiem var izveidot cilni ar tutorialu. Tāpat daudziem nepatīk darīt kaut ko klusumā, tāpēc var pievienot dažādas nomierinošas fona melodijas.
+2. Kādi interfeisa elementi jābūt lietotnē? 
+Lietotnē jābūt iespēja iekalt taimeri uz noteiktu laika periodu, pēc kura beigām ieskanēsies signāls par tā beigšanos. Tāpat jābūt iespēja jebkurā brīdī pauzēt taimeri. Tāpat iesācējiem var izveidot cilni ar kadu meditācijas tutorialu. 
+3. Kādi ievaddati var būt? Iespēja izvēlēt jebkuru minūšu skaitu. Atpakaļskaitīšana atlasīta laika. Dati par dažādiem meditācijas veidiem un to izpildi. Lejupielādēt melodijas ar nomierinošu efektu.
+4. Kā attēlot rezultātu? 
+Iespēja izvēlēt jebkuru minūšu skaitu. Nospiežot pogu "start", tiks sākta pieprasītā laika atpakaļskaitīšana. Iespēja uzzināt papildinformāciju par meditāciju. Pēc vēlēšanās varēs ieslēgt fona melodijas.
+Ar kādu signālu un uzrakstu “laiks beidzies”.
+5. Ievaddatu (vai notikumu) un rezultātu piemēri. 
+Iespēja izvēlēt jebkuru minūšu skaitu. Nospiežot pogu "start", tiks sākta pieprasītā laika atpakaļskaitīšana. Iespēja uzzināt papildinformāciju par meditāciju. Pēc vēlēšanās varēs ieslēgt fona melodijas. 
+6. Kā es redzu šādu lietotni?
+Jūs ieejat programmā, un pēc tam parādās uzraksta “meditācijas taimeris”. Nospiežot jebkurā vietā ekrānā, uzraksts pazudīs un jūs pāriesit uz programmas sākumlapu. Sākumlapā tiks rādīta programmas izvēlne, kas sastāv no vairākām cilnēm: tutoriāls, taimeris, mūzika. Ieejot cilnē "tutoriāls" varēs izlasīt par dažādiem meditācijas veidiem, to izpildījumu un nepieciešamajām prasībām. Ieejot cilnē "taimeris" būs iespēja iekalt taimeri vēlamajā laikā, pēc tam sākt atpakaļskaitīšanu. Ieejot cilnē "mūzika" būs iespēja ieslēgt meditācijai piemērotu melodiju.
